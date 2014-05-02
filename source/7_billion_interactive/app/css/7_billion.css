@@ -1,0 +1,195 @@
+div#wrapper_7_billion{
+    padding: 10px 0px 10px 0px;
+    margin: 0px;
+    position: relative;    
+    min-height: 732px; 
+}
+
+#wrapper_7_billion .app_head{
+    margin: 0 0 15px;
+}
+
+div#wrapper_7_billion ul.main_nav{
+    margin: 0px 0px 15px 0px;
+    padding: 0px;
+    height: 89px;
+}
+
+div#wrapper_7_billion ul.main_nav li{
+    background-image: url("/news/special/world/11/7_billion/app/img/header_line_strt.gif");
+    background-position: -5px 78px;
+    background-repeat: repeat-x;
+    display: block;
+    float: left;
+    height: 89px;
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+    position: relative;
+    text-align: center;
+    width: 244px;
+}
+
+div#wrapper_7_billion ul.main_nav li#head_1.selected,
+div#wrapper_7_billion ul.main_nav li#head_2.selected,
+div#wrapper_7_billion ul.main_nav li#head_3.selected,
+div#wrapper_7_billion ul.main_nav li#head_4.selected{
+    background-image: url("/news/special/world/11/7_billion/app/img/header_line.jpg");
+    background-position: -5px 78px;
+    background-repeat: no-repeat;
+    border-bottom: none;
+}
+    
+div#wrapper_7_billion ul.main_nav li a{
+    background-image: url("/news/special/world/11/7_billion/app/img/layouts_icons.png");
+    background-repeat: no-repeat;
+    color: #D8D8D8;
+    display: block;
+    height: 24px;
+    padding-top: 50px;
+    position: absolute;
+    text-decoration: none;
+    top: 0px; left: 47px;
+    width: 150px;
+}
+
+div#wrapper_7_billion ul.main_nav li#head_1 a{
+    background-position: -16px -32px;
+}
+div#wrapper_7_billion ul.main_nav li#head_2 a{
+    background-position: -125px -32px;
+}
+div#wrapper_7_billion ul.main_nav li#head_3 a{
+    background-position: -258px -32px;
+}
+div#wrapper_7_billion ul.main_nav li#head_4 a{
+    background-position: -397px -32px;
+}
+
+div#wrapper_7_billion ul.main_nav li#head_1.selected a{
+    background-position: -16px -164px;
+}
+div#wrapper_7_billion ul.main_nav li#head_2.selected a{
+    background-position: -125px -164px;
+}
+div#wrapper_7_billion ul.main_nav li#head_3.selected a{
+    background-position: -258px -164px;
+}
+div#wrapper_7_billion ul.main_nav li#head_4.selected a{
+    background-position: -397px -164px;
+}
+
+div#wrapper_7_billion ul.main_nav li#head_1.complete a{
+    background-position: -16px -287px;
+}
+div#wrapper_7_billion ul.main_nav li#head_2.complete a{
+    background-position: -125px -287px;
+}
+div#wrapper_7_billion ul.main_nav li#head_3.complete a{
+    background-position: -258px -287px;
+}
+div#wrapper_7_billion ul.main_nav li#head_4.complete a{
+    background-position: -397px -287px;
+}
+
+div#wrapper_7_billion ul.main_nav li.selected a{
+    color: #D1700E !important;
+}
+div#wrapper_7_billion ul.main_nav li.complete a{
+    color: #D8D8D8 !important;
+}
+
+div#wrapper_7_billion div.input_cta{
+    color: #D1700E;
+    font-size: 1.56em;
+    font-weight: bold;
+    line-height: 20px;
+    margin-bottom: 10px;
+}
+
+div#wrapper_7_billion div.input_cta span{
+    color: #D1700E;
+}
+
+div#wrapper_7_billion div#output_1{
+    position: relative;
+}
+
+div#wrapper_7_billion div#output_1,
+div#wrapper_7_billion div#output_2,
+div#wrapper_7_billion div#output_3,
+div#wrapper_7_billion div#output_4{
+    margin-bottom: 8px;
+    display: none;
+}
+
+div#wrapper_7_billion div#output_1.selected,
+div#wrapper_7_billion div#output_2.selected,
+div#wrapper_7_billion div#output_3.selected,
+div#wrapper_7_billion div#output_4.selected{
+    display: block;
+}
+
+div#wrapper_7_billion div.clear_7_billion{
+    clear: both;
+}
+
+/* inside first quadrant*/
+div#wrapper_7_billion div#population_graph{
+    height: 426px;
+}
+
+div#wrapper_7_billion div#my_position{
+   background-color: #FFFFFF;
+    left: 0;
+    padding: 10px 10px 10px 0;
+    position: absolute;
+    top: 90px;
+    z-index: 99;
+}
+
+div#wrapper_7_billion div#my_position span{
+    color: #505050;
+    display: block;
+    font-size: 14px;
+}
+
+div#wrapper_7_billion div#my_position span.pc-number{
+    color: #D1700E;
+    font-size: 35px;
+    font-weight: bold;
+    line-height: 35px;
+    padding: 5px 0px;
+}
+div#wrapper_7_billion div#my_position span.pc-text{
+    font-weight: bold;
+}
+
+div#wrapper_7_billion div#my_position span#panel_1,
+div#wrapper_7_billion div#my_position span#share_1{
+    background-repeat: no-repeat;
+    cursor: pointer;
+    float: left;
+    margin-top: 10px;
+}
+
+div#wrapper_7_billion div#my_position span#panel_1{
+    background-image: url("/news/special/world/11/7_billion/app/img/popup.png");
+    background-position: -10px -11px;
+    padding-left: 20px;
+    width: 200px;
+}
+div#wrapper_7_billion div#my_position span#share_1{
+    margin-right: 40px;
+    padding-left: 30px;    
+    width: 70px;
+}
+
+.summary_right div#share_results{
+	margin-top: 14px;
+}
+
+.seven-billion-loader{
+	padding-left: 40%;
+	padding-top: 4%;
+}

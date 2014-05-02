@@ -1,0 +1,186 @@
+/* next button*/
+div#wrapper_7_billion div.navigation {
+	position: relative;
+    float: right;
+    height: 54px;
+    top: 30px;
+    z-index: 15;
+}
+
+div#wrapper_7_billion div.navigation span#cta_next,
+div#wrapper_7_billion div.navigation span#cta_prev{
+    background-color: #D1700E;
+    background-image: url("/news/special/world/11/7_billion/app/img/buttons.png");
+    color: #FFFFFF;
+    cursor: pointer;
+    display: block;
+    float: left;
+    font-size: 24px;
+    font-weight: bold;
+    height: 32px;
+    line-height: 24px;
+    margin-left: 4px;
+    padding-top: 7px;
+    text-align: center;
+}
+
+div#wrapper_7_billion div.navigation span#cta_next.reset{
+    background-color: #505050;
+    background-image: none;
+}
+
+div#wrapper_7_billion div.navigation span#cta_next.disabled,
+div#wrapper_7_billion div.navigation span#cta_prev.disabled{
+    background-color: #D8D8D8 !important;
+    cursor: default;
+}
+
+div#wrapper_7_billion div.navigation span#cta_next{
+    background-position: -107px -81px;
+    padding-right: 10px;
+    width: 100px;
+}
+
+
+div#wrapper_7_billion div.navigation span#cta_next.disabled{
+    background-position: -107px -15px;
+}
+
+div#wrapper_7_billion div.navigation span#cta_prev{
+    background-position: -61px -81px;
+    width: 40px;
+}
+
+div#wrapper_7_billion div.navigation span#cta_prev.disabled{
+    background-position: -61px -15px;
+    width: 40px;
+}
+
+/* input */
+div.pop_input{
+    height: 54px;
+    margin-bottom: 24px;
+	position: relative;
+}
+
+div.pop_input form{
+    padding: 0px;
+    margin: 0px;
+    border: none;
+}
+
+div.pop_input input#bday,
+div.pop_input input#bmonth,
+div.pop_input input#byear,
+div.pop_input input#origin{
+	position: absolute;
+	bottom: 14px;
+    border: 2px solid #505050;
+    clear: none;
+    font-size: 1.81em;
+    font-weight: bold;
+    height: 35px;
+    line-height: 24px;
+    margin-right: 5px;
+    position: relative;
+    top: -1px;
+}
+
+div.pop_input input#bday,
+div.pop_input input#bmonth{
+    text-align: center;
+    width: 85px;
+}
+
+div.pop_input input#byear{
+    text-align: center;
+    width: 180px;
+}
+
+div.pop_input input#origin{
+    font-size: 25px;
+    line-height: 25px;
+    text-align: left;
+    width: 340px;
+	padding: 0 8px;
+}
+
+div.pop_input input#submit_bday,
+div.pop_input input#submit_origin{
+	position: absolute;
+	bottom: 16px;
+    background-color: #D1700E;
+    border: none;
+    clear: none;
+    color: #FFFFFF;
+    cursor: pointer;
+    font-size: 1.81em;
+    font-weight: bold;
+    height: 39px;
+    line-height: 1.81em;
+    margin-right: 3px;
+    width: 80px;
+}
+
+
+div.pop_input label.invalid{
+    display: none !important;
+}
+
+div.pop_input #gender_male,
+div.pop_input #gender_female{
+    background-color: #D1700E;
+    border: 2px solid #D1700E;
+    clear: none;
+    color: #ffffff;
+    cursor: pointer;
+    font-size: 26px;
+    font-weight: bold;
+    height: 38px;
+    line-height: 26px;
+    margin-right: 3px;
+}
+
+div.pop_input input#gender_male,
+div.pop_input input#gender_female{
+    width: 120px;
+}
+
+div.pop_input input#gender_male.gender_disabled,
+div.pop_input input#gender_female.gender_disabled{
+    background-color: #464646;
+    border: 2px solid #464646;
+}
+
+div.pop_input input#submit_bday.disabled,
+div.pop_input input#submit_origin.disabled{
+    background-color: #cccccc !important;
+    border: none;
+}
+
+.gelui-1-autosuggest{
+    z-index: 999;
+    font-size: 14px;
+    color: #ff0000;
+    border-top: 1px solid #cccccc;
+    border-right: 2px solid #cccccc;
+    border-bottom: 2px solid #cccccc;
+    border-left: 2px solid #cccccc;
+    background-color: #ffffff;
+    padding: 0;
+}
+
+.gelui-1-autosuggest div.gelui-container ul.gelui-suggestionlist li a{
+	display: block;
+	font-size: 24px;
+	color: #505050;
+	font-weight: bold;
+	text-decoration: none;
+	background-color: #FFFFFF;
+	width: 340px;
+	padding: 8px;
+}
+
+.gelui-1-autosuggest div.gelui-container ul.gelui-suggestionlist li a:hover{
+	background-color: #EDEDED;
+}

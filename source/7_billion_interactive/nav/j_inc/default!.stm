@@ -1,0 +1,5 @@
+<html><head><title>Editor</title><meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"></head>
+<frameset rows="500,516*" frameborder="YES" border="0" framespacing="20" cols="*">
+	<frame name="topFrame" scrolling="YES" src="text_files!.stm">
+	<frame name="work_area" src="blank!.stm">
+</frameset><noframes><body bgcolor="#FFFFFF"></body></noframes></html>

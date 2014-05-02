@@ -1,0 +1,14 @@
+div#nav_7_billion div.gelui-carousel-viewport {
+	/*width: 589px;*/
+	width: 554px;
+	height: 81px;
+}
+
+div#nav_7_billion ul#nav_content {
+	width: 30000px;
+}
+
+div#nav_7_billion ul#nav_content_2 li {
+	width: 144px;
+	margin: 0px 1px 0 0;
+}

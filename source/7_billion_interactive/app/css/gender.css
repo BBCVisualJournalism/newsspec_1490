@@ -1,0 +1,122 @@
+/* second quadrant*/
+div#wrapper_7_billion div#output_3{
+    height: 400px;
+}
+
+div#wrapper_7_billion div#gender{
+    background-image: url("/news/special/world/11/7_billion/app/img/people.png");
+    background-repeat: no-repeat;
+    background-position: 0px 0px;
+    border: 1px solid #cccccc;
+    float: left;
+    position: relative;
+    width: 612px;
+}
+
+div#wrapper_7_billion div#gender div.mf-comparison{
+    height: 344px;
+    position: relative;
+}
+
+div#wrapper_7_billion div#gender div.mf-comparison span{
+    display: block;
+}
+
+div#wrapper_7_billion div#gender div.mf-comparison span#mf_female,
+div#wrapper_7_billion div#gender div.mf-comparison span#mf_male{
+    color: #505050;
+    font-size: 38px;
+    font-weight: bold;
+    line-height: 38px;
+}
+
+div#wrapper_7_billion div#gender div.mf-comparison span#mf_female.selected,
+div#wrapper_7_billion div#gender div.mf-comparison span#mf_male.selected{
+    color: #D1700E;
+}
+
+div#wrapper_7_billion div#gender div.mf-comparison div.mf-female,
+div#wrapper_7_billion div#gender div.mf-comparison div.mf-male{
+    height: 75px;
+    position: absolute;
+    text-align: center;
+    top: 280px;
+    width: 106px;
+}
+
+div#wrapper_7_billion div#gender div.mf-comparison div.mf-female{
+    left: 185px;
+}
+
+div#wrapper_7_billion div#gender div.mf-comparison div.mf-male{
+    left: 334px;
+}
+
+div#wrapper_7_billion div#gender div#mf-life-expectancy{
+    font-size: 18px;
+    height: 55px;
+    line-height: 18px;
+    padding: 25px 0px 0px 8px;
+    
+}
+
+div#wrapper_7_billion div#gender div.map div{
+    bottom: 0px;
+    font-size: 20px;
+    font-weight: bold;
+    line-height: 20px;
+    padding-left: 250px;
+    position: absolute;
+    text-align: right;
+}
+
+div#wrapper_7_billion div#gender div.map div span{
+    display: block;
+    float: left;
+    padding: 5px;
+}
+
+div#wrapper_7_billion div#gender div.figures{
+    height: 48px;
+    padding: 8px 8px 0px 8px;
+}
+
+div#wrapper_7_billion div#gender div.figures div{
+    float: left;
+}
+
+div#wrapper_7_billion div#gender div.figures div.figure_head{
+    font-size: 11px;
+    font-weight: bold;
+    /*line-height: 53px;*/
+    padding-right: 8px;
+}
+
+div#wrapper_7_billion div#gender div.figures div#annual_growth{
+    font-size: 36px;
+    font-weight: bold;
+    line-height: 36px;
+    width: 125px;
+}
+
+div#wrapper_7_billion div#gender div.figures div.figure_val{
+    
+}
+
+div#wrapper_7_billion div#gender div.figures div.figure_val span{
+    display: block;
+}
+
+div#wrapper_7_billion div#gender div.figures div.figure_val span#birth_val,
+div#wrapper_7_billion div#gender div.figures div.figure_val span#death_val,
+div#wrapper_7_billion div#gender div.figures div.figure_val span#growth_val{
+    font-size: 20px;
+    font-weight: bold;
+    line-height: 20px;
+}
+
+div#wrapper_7_billion div#gender div.figures div.figure_val span#birth_label,
+div#wrapper_7_billion div#gender div.figures div.figure_val span#death_label,
+div#wrapper_7_billion div#gender div.figures div.figure_val span#growth_label{
+    font-size: 12px;
+}

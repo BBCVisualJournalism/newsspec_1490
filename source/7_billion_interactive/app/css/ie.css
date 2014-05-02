@@ -1,0 +1,84 @@
+div#wrapper_7_billion{   
+    height: 732px; 
+}
+
+#wrapper_7_billion div#output_2.selected{
+	position: relative;
+}
+
+#wrapper_7_billion div#myorigin{
+    position: absolute;
+	top: 0;
+	left: 0;
+}
+#wrapper_7_billion div#output_2.selected div#inpespective{
+    position: absolute;
+	top: 108px;
+	left: 618px;
+}
+#wrapper_7_billion div#output_3.selected div#gender_pespective{
+    position: absolute;
+	top: 272px;
+	left: 618px;
+}
+
+div#wrapper_7_billion div.summary_left div#summary_position span,
+div#wrapper_7_billion div.summary_left div#summary_nation div,
+div#wrapper_7_billion div.summary_left div#summary_gender span{
+	-ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=80)";
+	filter: alpha(opacity=80);
+}
+
+div#wrapper_7_billion div#inpespective div.figures,
+div#wrapper_7_billion div#gender_pespective div.figures{
+	-ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=80)";
+	filter: alpha(opacity=80);
+}
+
+div#wrapper_7_billion div#myorigin div.figures{
+	-ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=80)";
+	filter: alpha(opacity=80);
+}
+
+html.blq-js body.news div#blq-container-outer div#blq-container.blq-lang-en-GB div#blq-container-inner div#blq-main.blq-clearfix div.magazine div#content-wrapper.domestic div#main-content.story div.story-wide div#wrapper_7_billion div#output_1.selected div.pop_input form#form_1 input#submit_bday.disabled{
+	color: #FFFFFF !important;
+    background: #EEFF66;
+}
+
+#wrapper_7_billion div#output_1.selected div.input_cta,
+#wrapper_7_billion div#output_1.selected div.pop_input{
+	z-index: 16;
+}
+
+div#wrapper_7_billion div#output_1.selected div.pop_input form#form_1 input#bday,
+div#wrapper_7_billion div#output_1.selected div.pop_input form#form_1 input#bmonth,
+div#wrapper_7_billion div#output_1.selected div.pop_input form#form_1 input#byear,
+div#wrapper_7_billion div#output_2.selected div.pop_input form#form_2 input#origin{
+	padding: 7px 8px 0 8px;
+	height: 28px;
+}
+
+.ie #wrapper_7_billion #population-graph{
+	position: absolute;
+	left: 0;
+	top: 200px;
+}
+
+div#wrapper_7_billion div.figures div.section-labels{
+	position: relative;
+}
+.ie div#wrapper_7_billion span#panel_2, div#wrapper_7_billion span#panel_3, div#wrapper_7_billion span#panel_4, div#wrapper_7_billion span#panel_5{
+    position: absolute;
+	top: 8px;
+	left: 286px;
+}
+.ie7 div#wrapper_7_billion span#panel_2, div#wrapper_7_billion span#panel_3, div#wrapper_7_billion span#panel_4, div#wrapper_7_billion span#panel_5{
+    position: absolute;
+	bottom: 1px;
+	right: 0;
+}
+
+.ie7 div#wrapper_7_billion div#myorigin div.pop_count  span#population_meter span {
+    line-height: 26px;
+    padding: 3px 4px 6px;
+}

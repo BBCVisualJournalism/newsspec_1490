@@ -1,0 +1,260 @@
+div#nav_7_billion {
+	margin-top: 20px;
+	margin-bottom: 10px;
+	height: 130px;
+	/*width: 976px;*/
+	border-top: 1px solid #CCCCCC;
+}
+
+div#nav_7_billion h3 {
+	margin-bottom: 8px;
+	margin-top: 20px;
+	font-size: 1.2em;
+}
+
+div#nav_7_billion ul#nav_content_2 {
+	clear: both;
+	/*width: 624px;*/
+}
+
+div#nav_7_billion ul#nav_content_2 li {
+	float: left;
+	background: none;
+	display: block;
+	margin-right: 2px;
+	margin-top: 8px;
+	padding: 0px;
+}
+
+div#nav_7_billion ul#nav_content_2 li.last {
+	margin-right: 0px;
+}
+
+div#nav_7_billion ul#nav_content_2 li a {
+	height: 81px;
+	width: 144px;
+	display: block;
+	text-decoration: none;
+	background-color: #CCCCCC;
+	position: relative;
+}
+
+div#nav_7_billion ul#nav_content_2 li a img {
+	position: relative;
+	display: block;
+}
+
+div#nav_7_billion ul#nav_content_2 li a div.nav_caption {
+	/*eight: 22px;*/
+	width: 100%;
+	text-align: center;
+	line-height: 22px;
+	cursor: pointer;
+	position: absolute;
+	bottom: 0px;
+	left: 0;
+	background: rgba(0,0,0,0.6);
+	z-index: 10;
+}
+
+div#nav_7_billion ul#nav_content_2 li a div.nav_caption_highlight {
+	/*height: 22px;*/
+	width: 100%;
+	text-align: center;
+	line-height: 22px;
+	cursor: pointer;
+	position: absolute;
+	bottom: 0px;
+	left: 0;
+	background: black;
+	z-index: 10;
+}
+
+.ie div#nav_7_billion ul#nav_content_2 li a div.nav_caption_highlight,
+.ie div#nav_7_billion ul#nav_content_2 li a div.nav_caption {
+	bottom: -1px;
+}
+
+.ie div#nav_7_billion ul#nav_content_2 li a div.nav_caption, 
+.ie7 div#nav_7_billion ul#nav_content_2 li a div.nav_caption, 
+.ie8 div#nav_7_billion ul#nav_content_2 li a div.nav_caption {
+	background:transparent;
+    filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#aa000000,endColorstr=#aa000000);
+    zoom: 1;
+}
+
+div#nav_7_billion ul#nav_content_2 li a div {
+	color: white;
+}
+
+div#nav_7_billion_page1 div#nav_7_billion ul#nav_content_2 li a.item1 div.nav_caption,
+div#nav_7_billion_page2 div#nav_7_billion ul#nav_content_2 li a.item2 div.nav_caption,
+div#nav_7_billion_page3 div#nav_7_billion ul#nav_content_2 li a.item3 div.nav_caption,
+div#nav_7_billion_page4 div#nav_7_billion ul#nav_content_2 li a.item4 div.nav_caption,
+div#nav_7_billion_page5 div#nav_7_billion ul#nav_content_2 li a.item5 div.nav_caption,
+div#nav_7_billion_page6 div#nav_7_billion ul#nav_content_2 li a.item6 div.nav_caption,
+div#nav_7_billion_page7 div#nav_7_billion ul#nav_content_2 li a.item7 div.nav_caption,
+div#nav_7_billion_page1 div#nav_7_billion ul#nav_content_2 li a.item1 div.nav_caption_highlight,
+div#nav_7_billion_page2 div#nav_7_billion ul#nav_content_2 li a.item2 div.nav_caption_highlight,
+div#nav_7_billion_page3 div#nav_7_billion ul#nav_content_2 li a.item3 div.nav_caption_highlight,
+div#nav_7_billion_page4 div#nav_7_billion ul#nav_content_2 li a.item4 div.nav_caption_highlight,
+div#nav_7_billion_page5 div#nav_7_billion ul#nav_content_2 li a.item5 div.nav_caption_highlight,
+div#nav_7_billion_page6 div#nav_7_billion ul#nav_content_2 li a.item6 div.nav_caption_highlight,
+div#nav_7_billion_page7 div#nav_7_billion ul#nav_content_2 li a.item7 div.nav_caption_highlight {
+	filter: null;
+	background-color: #D2700F;
+}
+
+
+
+/* CAROUSEL */
+div.carousel-container div#nav_7_billion ul {
+    width: 30000px;
+    position: absolute;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+div.carousel-container div#nav_7_billion li {
+    float: left;
+    margin: 0;
+    padding: 0;
+}
+
+.gelui-carousel {
+    background-color: #ffffff;
+    position:relative;
+    width:100%;
+    overflow: hidden;
+}
+#slideshow .gelui-carousel .gelui-carousel-viewport {
+width: 906px;
+}
+
+.gelui-carousel .gelui-carousel-viewport {
+    position: relative;
+    margin: 0 35px;
+    height: 106px;
+	width: 906px;
+}
+
+.gelui-carousel ul {
+    width: 30000px;
+    position: absolute;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.gelui-carousel li {
+    float: left;
+    margin: 0 1px 0 0;
+    padding: 0;
+}
+
+*[dir=rtl] .gelui-carousel li {
+    float: right;
+    margin: 0 0 0 10px;
+}
+.gelui-carousel .gelui-carousel-navigation {
+    border:none;
+    position:absolute;
+    top:0;
+    margin:0;
+    padding:0;
+    width:35px;
+    height:100%;
+    z-index:100;
+}
+.gelui-carousel .gelui-carousel-navigation legend {
+    display:none;
+}
+.gelui-carousel .gelui-carousel-button {
+    display:block;
+    width:100%;
+    height:100%;
+    border:none;
+	background: url("/news/special/world/11/911_timeline/css/v1/img/back_next_35x360.png") no-repeat scroll transparent;
+    text-indent:-9999px;
+    cursor:pointer;
+}
+
+.gelui-carousel .gelui-carousel-button:hover {
+    cursor:pointer;
+}
+.gelui-carousel .gelui-carousel-navigation-left {
+    left:0;
+}
+.gelui-carousel .gelui-carousel-navigation-right {
+    right:0;
+}
+
+#nav_7_billion div.gelui-carousel .gelui-carousel-button-prev{
+    background-position: -85px -140px;
+}
+#nav_7_billion div.gelui-carousel .gelui-carousel-button-next{
+     background-position: -521px -140px;
+}
+
+#nav_7_billion div.gelui-carousel .gelui-carousel-button-prev:hover  {
+   background-position: -170px -140px;
+} 
+#nav_7_billion div.gelui-carousel .gelui-carousel-button-next:hover  {
+   background-position: -606px -140px;
+}
+
+#nav_7_billion div.gelui-carousel .gelui-carousel-button.gelui-carousel-button-prev:active {
+    background-position: -255px -140px;
+}
+#nav_7_billion div.gelui-carousel .gelui-carousel-button.gelui-carousel-button-next:active {
+    background-position: -691px -140px;
+
+}
+
+#nav_7_billion div.gelui-carousel .gelui-carousel-button.gelui-carousel-button-prev.gelui-carousel-button-disabled,
+#nav_7_billion div.gelui-carousel .gelui-carousel-button.gelui-carousel-button-prev.gelui-carousel-button-disabled:hover,
+#nav_7_billion div.gelui-carousel .gelui-carousel-button.gelui-carousel-button-prev.gelui-carousel-button-disabled:active{
+	background-position: 0px -140px;
+	cursor:default;
+}
+
+#nav_7_billion div.gelui-carousel .gelui-carousel-button.gelui-carousel-button-next.gelui-carousel-button-disabled,
+#nav_7_billion div.gelui-carousel .gelui-carousel-button.gelui-carousel-button-next.gelui-carousel-button-disabled:hover,
+#nav_7_billion div.gelui-carousel .gelui-carousel-button.gelui-carousel-button-next.gelui-carousel-button-disabled:active{
+    background-position: -436px -140px;
+	cursor:default;
+}
+
+
+
+
+.ie  #nav_7_billion .gelui-carousel .gelui-carousel-button {
+	height: 106px;
+	width: 35px;
+	cursor:pointer;
+}
+.ie #nav_7_billion .gelui-carousel-button-prev.gelui-carousel-button-disabled{
+	background: #666666;
+	cursor:default;
+}
+
+.ie #nav_7_billion .gelui-carousel-button-next.gelui-carousel-button-disabled{
+	background: #666666;
+	cursor:default;
+}
+
+.ie7 #carousel .item-text ,
+.ie #carousel .item-text {
+	top: 0px;
+}
+
+.ie7 #nav_7_billion div.gelui-carousel .gelui-carousel-button-prev.active_but,
+.ie #nav_7_billion div.gelui-carousel .gelui-carousel-button-prev.active_but {
+    background-position: -255px -132px;
+}
+
+.ie7 #nav_7_billion div.gelui-carousel .gelui-carousel-button-next.active_but,
+.ie #nav_7_billion div.gelui-carousel .gelui-carousel-button-next.active_but {
+    background-position: -691px -132px;
+}

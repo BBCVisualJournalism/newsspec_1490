@@ -1,0 +1,197 @@
+/* second quadrant*/
+div#wrapper_7_billion div#output_2{
+    height: 400px;
+}
+
+div#wrapper_7_billion div#myorigin{
+    background-image: url("/news/special/world/11/7_billion/app/img/map_world.gif");
+    background-repeat: no-repeat;
+    border: 1px solid #cccccc;
+    float: left;
+    height: 424px;
+    position: relative;
+    width: 612px;
+}
+
+div#wrapper_7_billion div#myorigin div#country_name{
+    font-size: 18px;
+    font-weight: bold;
+    padding: 10px;
+    line-height: 18px;    
+}
+
+div#wrapper_7_billion div#myorigin div.pop_count{
+    height: 31px;
+    position: absolute;
+	right: 8px;
+    bottom: 82px;
+}
+
+div#wrapper_7_billion div#myorigin div.pop_count span{
+    display: block;
+    float: left;
+    font-weight: bold;
+	font-size: 16px;
+    height: 24px;
+    padding: 0;
+}
+
+div#wrapper_7_billion div#myorigin div.pop_count span#population_meter {
+    height: 31px;
+    padding-left: 6px;
+    position: relative;
+    top: -10px;
+}
+
+div#wrapper_7_billion div#myorigin div.figures{
+    background-color: #ffffff;
+    height: 72px;
+    padding: 8px 8px 0px 8px;
+    position: absolute;
+    left: 0px; bottom: 0px;
+    width: 596px;
+	opacity: 0.8;
+}
+
+div#wrapper_7_billion div#myorigin div.figures div{
+    float: left;
+    color: #505050;
+}
+
+
+div#wrapper_7_billion div#myorigin div.figures div.avg_annual{
+    position: absolute;
+    top: 8px;
+    right: 10px;
+}
+
+div#wrapper_7_billion div#myorigin div.figures div h4{
+    padding: 0px 0px 8px 8px;
+    font-size:12px;
+    font-weight: bold;
+    margin: 0px;
+}
+
+div#wrapper_7_billion div#myorigin div.figures div span{
+    display: block;
+    float: left;
+    line-height: 24px;
+}
+
+div#wrapper_7_billion div#myorigin div.figures div span.pop_head{
+    font-size: 12px;
+    font-weight: normal;
+    padding: 10px 20px 0px 8px;
+}
+
+div#wrapper_7_billion div#myorigin div.figures div span#pop_bph,
+div#wrapper_7_billion div#myorigin div.figures div span#pop_dph,
+div#wrapper_7_billion div#myorigin div.figures div span#pop_mph,
+div#wrapper_7_billion div#myorigin div.figures div span#pop_ayg{
+    font-size: 38px;
+    font-weight: bold;
+    line-height: 38px;
+}
+
+div#wrapper_7_billion div#myorigin div.figures div span#pop_bph.personal,
+div#wrapper_7_billion div#myorigin div.figures div span#pop_dph.personal,
+div#wrapper_7_billion div#myorigin div.figures div span#pop_mph.personal,
+div#wrapper_7_billion div#myorigin div.figures div span#pop_ayg.personal{
+    color: #D1700E;
+    font-size: 32px;
+    line-height: 32px;
+}
+
+/** section in perspective */
+div#wrapper_7_billion div#inpespective,
+div#wrapper_7_billion div#gender_pespective{
+    float: right;
+    width: 356px;
+}
+
+div#wrapper_7_billion div#inpespective div.highest_pop_growth,
+div#wrapper_7_billion div#inpespective div.lowest_pop_growth,
+div#wrapper_7_billion div#gender_pespective div.highest_life_exp,
+div#wrapper_7_billion div#gender_pespective div.lowest_life_exp{
+    background-repeat: no-repeat;
+    border: 1px solid #cccccc;
+    height: 207px;
+    position: relative;
+}
+/*population growth*/
+div#wrapper_7_billion div#inpespective div.highest_pop_growth{
+    background-image: url("/news/special/world/11/7_billion/app/img/ss_maps/qatar.gif");
+    margin-bottom: 8px;
+}
+div#wrapper_7_billion div#inpespective div.lowest_pop_growth{
+    background-image: url("/news/special/world/11/7_billion/app/img/ss_maps/moldova.gif");
+}
+/*life expectancy*/
+div#wrapper_7_billion div#gender_pespective div.highest_life_exp{
+    background-image: url("/news/special/world/11/7_billion/app/img/ss_maps/japan.gif");
+    margin-bottom: 8px;
+}
+div#wrapper_7_billion div#gender_pespective div.lowest_life_exp{
+    background-image: url("/news/special/world/11/7_billion/app/img/ss_maps/central_african_republic.gif");
+}
+
+div#wrapper_7_billion div#inpespective div.highest_pop_growth h3,
+div#wrapper_7_billion div#gender_pespective div.highest_life_exp h3,
+div#wrapper_7_billion div#inpespective div.lowest_pop_growth h3,
+div#wrapper_7_billion div#gender_pespective div.lowest_life_exp h3{
+    font-size: 18px;
+    font-weight: bold;
+    line-height: 18px;
+    padding: 8px 0px 10px 8px;
+    margin: 0px;
+	text-transform: uppercase;
+}
+
+div#wrapper_7_billion div#inpespective div.highest_pop_growth h4,
+div#wrapper_7_billion div#gender_pespective div.highest_life_exp h4,
+div#wrapper_7_billion div#inpespective div.lowest_pop_growth h4,
+div#wrapper_7_billion div#gender_pespective div.lowest_life_exp h4{
+    font-size: 18px;
+    font-weight: normal;
+    line-height: 18px;
+    padding: 0 0 10px 8px;
+    margin: 0px;
+}
+
+div#wrapper_7_billion div#inpespective div.figures,
+div#wrapper_7_billion div#gender_pespective div.figures{
+    background-color: #ffffff;
+    height: 52px;
+    padding: 8px 0px 0px 8px;
+    position: absolute;
+    bottom: 0px; left: 0px;
+    width: 346px;
+	opacity: 0.8;
+}
+
+div#wrapper_7_billion div#inpespective div.figures div.section-value,
+div#wrapper_7_billion div#gender_pespective div.figures div.section-value{
+    color: #D1700E;
+    font-size: 24px;
+    font-weight: bold;
+    line-height: 24px;
+}
+
+div#wrapper_7_billion div#inpespective div.figures div.section-labels,
+div#wrapper_7_billion div#gender_pespective div.figures div.section-labels{
+    color: #505050;
+    font-size: 12px;
+    line-height: 12px;
+	padding-top: 7px;
+}
+
+div#wrapper_7_billion div#myorigin div.pop_count  span#population_meter span {
+    background-color: #FFFFFF;
+    border: 1px solid #D8D8D8;
+    display: block;
+    font-size: 26px;
+    height: 24px;
+    margin-left: 2px;
+    padding: 7px 4px 0;
+    width: 14px;
+}

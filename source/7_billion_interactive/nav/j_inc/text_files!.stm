@@ -1,0 +1,111 @@
+<!doctype html public "-//W3C//DTD HTML 4.0 Transitional//EN">
+
+<html><head><title>7 Billion Navigation | TEXT FILES</title>
+
+<style>
+
+body{font-family:Verdana, Arial, Helvetica, sans-serif, "MS sans serif"; font-size:11px;}
+.bigbody{font-family:Verdana, Arial, Helvetica, sans-serif, "MS sans serif"; font-size:18px; color:#000000;}
+.bannertxt{font-family:Verdana, Arial, Helvetica, sans-serif, "MS sans serif"; font-size:18px; color:#FFFFFF;}
+.danger{font-family:Verdana, Arial, Helvetica, sans-serif, "MS sans serif";font-size:11px;color:#CC0000;}
+A:link{color:#660000;text-decoration:none;font-family:Verdana, Arial, Helvetica, sans-serif, "MS sans serif";font-size:11px;}
+A:visited{color:#660000;text-decoration:none;font-family:Verdana, Arial, Helvetica, sans-serif, "MS sans serif";font-size:11px;}
+A:active{color:#660000;text-decoration:none;font-family:Verdana, Arial, Helvetica, sans-serif, "MS sans serif";font-size:11px;}
+A:hover{color:#CCCC99;text-decoration:none;font-size:11px;}
+
+A.rel:link{color:#ffffff;text-decoration:none;font-family:Verdana, Arial, Helvetica, sans-serif, "MS sans serif";font-size:11px;}
+A.rel:visited{color:#ffffff;text-decoration:none;font-family:Verdana, Arial, Helvetica, sans-serif, "MS sans serif";font-size:11px;}
+A.rel:active{color:#ffffff;text-decoration:none;font-family:Verdana, Arial, Helvetica, sans-serif, "MS sans serif";font-size:11px;}
+A.rel:hover{color:#C6CFBD;text-decoration:none;font-size:11px;}
+
+A.grey:link{color:#666666;text-decoration:none;font-family:Verdana, Arial, Helvetica, sans-serif, "MS sans serif";font-size:11px;}
+A.grey:visited{color:#666666;text-decoration:none;font-family:Verdana, Arial, Helvetica, sans-serif, "MS sans serif";font-size:11px;}
+A.grey:active{color:#666666;text-decoration:none;font-family:Verdana, Arial, Helvetica, sans-serif, "MS sans serif";font-size:11px;}
+A.grey:hover{color:#CCCC99;text-decoration:none;font-size:11px;}
+.aitem{margin-top:1px;padding-left:12px;font-family:Verdana, Arial, Helvetica, sans-serif;font-size:11px;background:#FFFFFF url("/furniture/aro_blue.gif") no-repeat;}
+
+
+</style>
+
+<script language="javascript1.2">
+<!--
+function OnMouseOver(o){
+o.style.backgroundColor='#CCCC99';
+o.style.cursor='hand';}
+
+function OnMouseOut(o){
+o.style.backgroundColor='#999966';}
+
+function OnMouseOverRed(o){
+o.style.backgroundColor='#993333';
+o.style.cursor='hand';}
+
+function OnMouseOutRed(o){
+o.style.backgroundColor='#990000';}
+
+function OnMouseOverDarkbrown(o){
+o.style.backgroundColor='#CCCC99';
+o.style.cursor='hand';}
+
+function OnMouseOutDarkbrown(o){
+o.style.backgroundColor='#666633';}
+// -->
+</script>
+
+</head>
+
+<body><a name="top"></a>
+<table cellspacing="0" cellpadding="10" border="0" width="100%"><tr bgcolor="#990000"><td width="100%"><b class="bannertxt">7 Billion Navigation</b></td></tr></table>
+
+<p><b>Instructions</b> - <span class="danger">!! read fully before making changes !!</span>
+<br /><b>1. Edit the text using the web based editor</b>
+<br />- Click on the name of the page you want to edit from the list below - <i> this will open the text editor in the frame below</i>
+<br />** If there is any HTML code in the text, please be very careful not to disturb it **
+<br /><b>2. Save changes</b>
+<br />- Once you have made the required changes, click the save button at the bottom of the editor page
+<br />- The page should then inform you that it has 'done'
+<br /><b>3. Ftp ( make live ) the changed file</b>
+<br />- When you are completely happy with your text use the FTP button to send it to the live servers.
+<p><hr />
+
+<p><span class="bigbody">Title</span><br />
+<br /><a href="http://noltools.newsonline.tc.nca.bbc.co.uk:808/cgi-bin/SSIEditor/SSIEditor.pl?method=edit&path=//nolmcs01/inetpub/wwwlive/news/special/world/11/7_billion/nav/j_inc/title.inc" target="work_area"> - <b>Click here to edit the text</b></a>
+<br />
+</p>
+
+<p><span class="bigbody">Caption 1</span><br />
+<br /><a href="http://noltools.newsonline.tc.nca.bbc.co.uk:808/cgi-bin/SSIEditor/SSIEditor.pl?method=edit&path=//nolmcs01/inetpub/wwwlive/news/special/world/11/7_billion/nav/j_inc/caption1.inc" target="work_area"> - <b>Click here to edit the text</b></a>
+<br />
+</p>
+
+<p><span class="bigbody">Caption 2</span><br />
+<br /><a href="http://noltools.newsonline.tc.nca.bbc.co.uk:808/cgi-bin/SSIEditor/SSIEditor.pl?method=edit&path=//nolmcs01/inetpub/wwwlive/news/special/world/11/7_billion/nav/j_inc/caption2.inc" target="work_area"> - <b>Click here to edit the text</b></a>
+<br />
+</p>
+
+<p><span class="bigbody">Caption 3</span><br />
+<br /><a href="http://noltools.newsonline.tc.nca.bbc.co.uk:808/cgi-bin/SSIEditor/SSIEditor.pl?method=edit&path=//nolmcs01/inetpub/wwwlive/news/special/world/11/7_billion/nav/j_inc/caption3.inc" target="work_area"> - <b>Click here to edit the text</b></a>
+<br />
+</p>
+
+<p><span class="bigbody">Caption 4</span><br />
+<br /><a href="http://noltools.newsonline.tc.nca.bbc.co.uk:808/cgi-bin/SSIEditor/SSIEditor.pl?method=edit&path=//nolmcs01/inetpub/wwwlive/news/special/world/11/7_billion/nav/j_inc/caption4.inc" target="work_area"> - <b>Click here to edit the text</b></a>
+<br />
+</p>
+
+<p><span class="bigbody">Caption 5</span><br />
+<br /><a href="http://noltools.newsonline.tc.nca.bbc.co.uk:808/cgi-bin/SSIEditor/SSIEditor.pl?method=edit&path=//nolmcs01/inetpub/wwwlive/news/special/world/11/7_billion/nav/j_inc/caption5.inc" target="work_area"> - <b>Click here to edit the text</b></a>
+<br />
+</p>
+<!--
+<p><span class="bigbody">Caption 6</span><br />
+<br /><a href="http://noltools.newsonline.tc.nca.bbc.co.uk:808/cgi-bin/SSIEditor/SSIEditor.pl?method=edit&path=//nolmcs01/inetpub/wwwlive/news/special/world/11/7_billion/nav/j_inc/caption6.inc" target="work_area"> - <b>Click here to edit the text</b></a>
+<br />
+</p>
+
+<p><span class="bigbody">Caption 7</span><br />
+<br /><a href="http://noltools.newsonline.tc.nca.bbc.co.uk:808/cgi-bin/SSIEditor/SSIEditor.pl?method=edit&path=//nolmcs01/inetpub/wwwlive/news/special/world/11/7_billion/nav/j_inc/caption7.inc" target="work_area"> - <b>Click here to edit the text</b></a>
+<br />
+</p>-->
+
+</html>
